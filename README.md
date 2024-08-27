@@ -41,7 +41,6 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandroni07&theme=midnight-purple" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Alexandroni07/Alexandroni07/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Alexandroni07&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
