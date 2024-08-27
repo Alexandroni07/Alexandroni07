@@ -12,28 +12,17 @@
     <a href="https://www.linkedin.com/in/gabriel-alexandroni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:gaalexandroni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/gabriel_alexandroni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
 </div><br/>
 
-## 🖥️ Languages & Tools
-<div align="left">
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo"  /></code>
-  <img width="14" />
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
-  <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
-  <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo"  /></code>
-  <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c++ logo"  /></code>
-  <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="14" />
+
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,python,postman,vscode,github,eclipse,git,c,cs,cpp" />
 </div>
 
 
-## 📈 Metrics
+<h2 align="center" >⚡Stats⚡</h2>
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Alexandroni07&show_icons=true&theme=midnight-purple">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alexandroni07&layout=compact&theme=midnight-purple" />
@@ -42,5 +31,7 @@
 </div>
 
 
-## 🏆 Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Alexandroni07&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+your+Attention!;" />
+</h1>
