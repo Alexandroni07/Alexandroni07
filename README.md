@@ -57,6 +57,9 @@
     </td>
   </tr>
 </table>
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/Alexandroni07/Alexandroni07/output/github-contribution-grid-snake-dark.svg)
 
 --- 
 <br/>
