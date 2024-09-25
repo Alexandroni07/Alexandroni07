@@ -22,7 +22,10 @@
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,python,postman,vscode,github,eclipse,git,c,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,python,postman,vscode,github,eclipse" />
+</div>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,react,js,html,css" />
 </div>
 <br/>
 <br/>
