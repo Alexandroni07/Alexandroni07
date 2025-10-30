@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3500&pause=200&color=F7E6F5&center=true&width=800&lines=Hi!+I'm+Gabriel+Alexandroni!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3500&pause=200&color=F7E6F5&center=true&width=800&lines=<>+Hi!+I'm+Gabriel+Alexandroni!+👋🏻+</>)](https://git.io/typing-svg)
 
 ## 📖 About me
 - 🖥 Software Developer & curious student
@@ -22,10 +22,7 @@
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,python,postman,vscode,github,eclipse" />
-</div>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,git,react,angular,html,css" />
 </div>
 <br/>
 <br/>
@@ -61,8 +58,6 @@
   </tr>
 </table>
 <br/>
-
-![Snake animation](https://raw.githubusercontent.com/Alexandroni07/Alexandroni07/output/github-contribution-grid-snake-dark.svg)
 
 --- 
 <br/>
