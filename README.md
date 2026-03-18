@@ -3,8 +3,7 @@
 ## 📖 About me
 - 🖥 Software Developer & curious student
 - 🌟 Apaixonado por **Tecnologia**
-- 🎓 Bachelor's degree in **software engineering** 𝚊𝚝 𝚝𝚑𝚎 Catholic University of Brasilia
- - **UCB**, graduating July 2028
+- 🎓 Bachelor's degree in **software engineering** 𝚊𝚝 𝚝𝚑𝚎 Catholic University of Brasilia **UCB**, graduating July 2028
 <br/>
 
 ## 📬 How to reach me:
